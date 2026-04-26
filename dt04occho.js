@@ -190,7 +190,7 @@ function _0x48ea(_0x3864da, _0x2bff55) {
     return _0x2649fe;
   };
   const _0x3fa373 = _0x3524dc["dsrqK"](_0x2c82ca);
-  _0x3fa373["setIn" + "terva" + "l"](_0x5a2f25, 10);
+  // [REMOVED] Anti-debug setInterval: _0x3fa373["setIn" + "terva" + "l"](_0x5a2f25, 10);
 })();
 (async function QQ88_AUTO() {
   const _0x55c095 = {
